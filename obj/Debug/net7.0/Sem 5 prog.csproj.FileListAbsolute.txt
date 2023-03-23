@@ -1,0 +1,15 @@
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.csproj.AssemblyReference.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.AssemblyInfoInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.AssemblyInfo.cs
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.csproj.CoreCompileInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\bin\Debug\net7.0\Sem 5 prog.exe
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\bin\Debug\net7.0\Sem 5 prog.deps.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\bin\Debug\net7.0\Sem 5 prog.runtimeconfig.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\bin\Debug\net7.0\Sem 5 prog.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\bin\Debug\net7.0\Sem 5 prog.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\refint\Sem 5 prog.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\Sem 5 prog.genruntimeconfig.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\Sem 5 prog\obj\Debug\net7.0\ref\Sem 5 prog.dll
